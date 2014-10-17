@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ury:home|Door43 (ury)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ury|d43-ury repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ury/archive/master.zip|d43-ury.zip]]
+
+**Recent Changes**
+{{changes>ns = ury}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ury|Ethnologue data]]
+
